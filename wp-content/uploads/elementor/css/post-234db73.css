@@ -1,0 +1,31 @@
+.elementor-234 .elementor-element.elementor-element-be57dc5:not(.elementor-motion-effects-element-type-background), .elementor-234 .elementor-element.elementor-element-be57dc5 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#e8e8e8;}.elementor-234 .elementor-element.elementor-element-be57dc5{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:20px;margin-bottom:20px;padding:50px 0px 50px 0px;}.elementor-234 .elementor-element.elementor-element-be57dc5 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-234 .elementor-element.elementor-element-5a92ed8 .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.5 * 100% );}.elementor-234 .elementor-element.elementor-element-5a92ed8:after{content:"0.5";position:absolute;color:transparent;}.elementor-234 .elementor-element.elementor-element-5a92ed8 .elementor-post__meta-data span + span:before{content:"•";}.elementor-234 .elementor-element.elementor-element-5a92ed8 .elementor-posts-container{grid-column-gap:50px;grid-row-gap:35px;}.elementor-msie .elementor-234 .elementor-element.elementor-element-5a92ed8 .elementor-post{padding-right:calc( 50px/2 );padding-left:calc( 50px/2 );padding-bottom:35px;}.elementor-msie .elementor-234 .elementor-element.elementor-element-5a92ed8 .elementor-posts-container{margin-left:calc( -50px/2 );margin-right:calc( -50px/2 );}.elementor-234 .elementor-element.elementor-element-5a92ed8 .elementor-post__card{background-color:#f5f5f5;border-color:#f5f5f5;border-width:0px;border-radius:0px;}.elementor-234 .elementor-element.elementor-element-5a92ed8 .elementor-post__text{margin-top:20px;}.elementor-234 .elementor-element.elementor-element-5a92ed8 .elementor-post__badge{right:0;}.elementor-234 .elementor-element.elementor-element-5a92ed8 .elementor-post__card .elementor-post__badge{background-color:#0c0c0c;color:#fcfcfc;margin:20px;font-family:"Poppins", Sans-serif;font-weight:600;}.elementor-234 .elementor-element.elementor-element-5a92ed8 .elementor-post__title, .elementor-234 .elementor-element.elementor-element-5a92ed8 .elementor-post__title a{color:#0c0c0c;font-family:"Poppins", Sans-serif;font-size:17px;font-weight:600;}.elementor-234 .elementor-element.elementor-element-5a92ed8 .elementor-post__excerpt p{color:#0c0c0c;font-family:"Poppins", Sans-serif;font-size:13px;font-weight:400;}.elementor-234 .elementor-element.elementor-element-5a92ed8 .elementor-post__read-more{color:#001382;font-family:"Poppins", Sans-serif;font-size:15px;font-weight:700;font-style:italic;text-decoration:overline;}.elementor-234 .elementor-element.elementor-element-5a92ed8 .elementor-pagination{text-align:center;}body:not(.rtl) .elementor-234 .elementor-element.elementor-element-5a92ed8 .elementor-pagination .page-numbers:not(:first-child){margin-left:calc( 10px/2 );}body:not(.rtl) .elementor-234 .elementor-element.elementor-element-5a92ed8 .elementor-pagination .page-numbers:not(:last-child){margin-right:calc( 10px/2 );}body.rtl .elementor-234 .elementor-element.elementor-element-5a92ed8 .elementor-pagination .page-numbers:not(:first-child){margin-right:calc( 10px/2 );}body.rtl .elementor-234 .elementor-element.elementor-element-5a92ed8 .elementor-pagination .page-numbers:not(:last-child){margin-left:calc( 10px/2 );}@media(max-width:767px){.elementor-234 .elementor-element.elementor-element-5a92ed8 .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.5 * 100% );}.elementor-234 .elementor-element.elementor-element-5a92ed8:after{content:"0.5";position:absolute;color:transparent;}}/* Start custom CSS for archive-posts, class: .elementor-element-5a92ed8 */.elementor-posts .elementor-post{
+    box-shadow: 
+5px 5px 10px rgba(0,0,0,0.4),
+-5px -5px 10px #fff;
+
+-moz-box-shadow: 
+5px 5px 10px rgba(0,0,0,0.4),
+-5px -5px 10px #fff;
+
+-webkit-box-shadow: 
+5px 5px 10px rgba(0,0,0,0.4),
+-5px -5px 10px #fff;
+    
+}
+
+.elementor-posts .elementor-post:hover{
+box-shadow: 
+    15px 15px 20px rgba(0,0,0,0.4),
+-15px -15px 20px #fff;
+
+
+-moz-box-shadow: 
+    15px 15px 20px rgba(0,0,0,0.4),
+-15px -15px 20px #fff;
+
+
+-webkit-box-shadow: 
+    15px 15px 20px rgba(0,0,0,0.4),
+-15px -15px 20px #fff;
+
+}/* End custom CSS */
